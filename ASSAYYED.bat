@@ -2,21 +2,7 @@
 @echo off
 cd %~dp0
 setlocal enabledelayedexpansion
-if not exist "ASSAYYED.EXE" (
-	color 0c
-	echo.
-	echo.
-	echo NO [ASSAYYED.EXE] FOUND
-	echo PLEASE RUN THE KITCHEN FROM THE MAIN PATH
-	echo AND IF YOU CHANGED THE KITCHEN NAME PLEASE RENAME IT TO [ASSAYYED.EXE]
-	pause>nul
-	exit
-)
-set /a first_run+=1
-if "!first_run!"=="1" (
-	ASSAYYED 2>nul
-	exit
-)
+
 if not exist "TOOLS" (
 	echo.
 	echo.

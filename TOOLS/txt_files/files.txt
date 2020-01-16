@@ -32,7 +32,7 @@ TOOLS/bin/make_ext4fs.exe
 TOOLS/bin/mksquashfs.exe
 TOOLS/bin/paste.exe
 TOOLS/bin/python27.dll
-TOOLS/bin/rimg2sdat.exe
+TOOLS/bin/rimg2sdat.exe_virus
 TOOLS/bin/sdat2img.exe
 TOOLS/bin/sgs4ext4fs.exe
 TOOLS/bin/simg2img.exe
