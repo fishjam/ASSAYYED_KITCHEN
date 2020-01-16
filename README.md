@@ -3,4 +3,4 @@
 ---
 
 # Background
-  This is the source code of build custom Android ROM, Please Ref [how to build/modify roms for samsung devices](https://forum.xda-developers.com/android/software/guide-how-to-develop-modify-roms-t3616040)
+  This is the source code of build custom Android ROM, Please Ref [[BEST ANDROID ROMs & APKs & FILE_SYSTEMs EDITOR] ASSAYYED_KITCHEN](https://forum.xda-developers.com/chef-central/android/best-android-roms-editor-assayyedkitchen-t3410545)
